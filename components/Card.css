@@ -1,0 +1,23 @@
+
+.card-item {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-item h2 {
+    font-size: 20px;
+}
+
+.card-item img {
+    height: 200px;
+    background-size: cover;
+}
+
+.card-item p {
+    height: 40px;
+    font-size: 15px;
+}
